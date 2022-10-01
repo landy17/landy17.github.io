@@ -4,6 +4,11 @@ body {
     height: 70px;
 }
 
+#navb{
+    padding: 5px 90px;
+}
+
+
 #ba1{
     filter: brightness(50%);   
 }
