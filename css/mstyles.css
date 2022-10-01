@@ -10,7 +10,7 @@ body {
 
 #texto{
     color: white;
-    font-size: 1.5vw auto;
+    font-size: 1.3vw;
     text-align:right;
     transform: translateX(-5%) translateY(40%);
 }
