@@ -1,0 +1,45 @@
+body {
+    box-sizing: border-box;
+    padding: 10px 10px;
+    height: 70px;
+}
+
+#ba1{ 
+        filter: brightness(50%);   
+}
+
+#texto{
+    color: white;
+    font-size: 1.5vw;
+    text-align:right;
+    transform: translateX(-5%) translateY(40%);
+
+}
+
+#textoba1{
+    line-height: 150%;
+}
+
+#oradores{
+    text-align: center;
+}
+
+#oradores2{
+    text-align: center;
+}
+
+#hablar{
+    opacity: 60%;
+}
+
+#botonenviar{
+    color: white;
+    background-color:yellowgreen ;
+}
+
+footer{
+    color:white;
+    background-color:rgb(21, 47, 69);
+    text-align:center;
+
+}
